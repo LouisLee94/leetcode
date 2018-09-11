@@ -1,4 +1,4 @@
-package netEase;
+package exam;
 
 import java.util.Scanner;
 
